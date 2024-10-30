@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidd2712&label=Profile%20views&color=0e75b6&style=flat" alt="sidd2712" /> </p>
 
-- 🔭 I’m currently working on <a href="https://toetoys.vercel.app/" target="_blank">ToeToys</a>
+- 🔭 I’m currently working on [ToeToys](https://toetoys.vercel.app/) _(opens in new tab)_
 
 - 🌱 I’m currently learning **Next.js, Graphql**
 
