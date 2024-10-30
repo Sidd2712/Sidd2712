@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Next.js, Graphql**
 
-- 👨‍💻 All of my projects are available at [https://siddharthportfolio.vercel.app/](https://siddharthportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://siddharthportfolio.vercel.app/)
 
 - 💬 Ask me about **React, Next.js.**
 
 - 📫 How to reach me **siddharth.2727goyal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18qTs7-10F10XXT-AdL-bhkofNQbISJcq/view?usp=sharing](https://drive.google.com/file/d/18qTs7-10F10XXT-AdL-bhkofNQbISJcq/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18qTs7-10F10XXT-AdL-bhkofNQbISJcq/view?usp=sharing)
 
 - ⚡ Fun fact **My code runs like a bad horror film—just when I think it’s over, it comes back for a sequel!**
 
